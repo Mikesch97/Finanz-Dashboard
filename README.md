@@ -1,2 +1,0 @@
-# Finanz-Dashboard
-Finanz-Dashboard
